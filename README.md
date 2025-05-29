@@ -35,7 +35,7 @@ To design responsive mobile and web layouts for an existing digital product by a
 - Document your design decisions and how each principle/tool contributed to the final output.
 
 ## OUTPUT
-[UI and UX-2 (1).pdf](https://github.com/user-attachments/files/20504588/UI.and.UX-2.1.pdf)
+https://lms2.cse.saveetha.in/pluginfile.php/51763/assignsubmission_file/submission_files/127361/Amazon%20Web%20Interface.pptx?forcedownload=1
 
 ## RESULT
 Successfully designed responsive mobile and web layouts for an existing case study using key design principles. Applied Gestalt theory to improve visual structure, integrated standard UI components and patterns, and developed user interactions focused on usability. Created a custom brand logo using Canva, maintaining visual consistency across layouts. This process enhanced my skills in layout planning, responsive design, branding, and user-centered thinking.
